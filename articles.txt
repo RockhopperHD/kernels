@@ -1,0 +1,105 @@
+# Vibe Coding and So-Called AI “Art”
+## Worth the Time it Takes You(?)
+by:Owen Whelan
+ft:none
+tags:AI, opinion
+date:
+summary:One of the biggest and most prominent arguments around AI generated content is what creativity should look like. Arguments that it is real “art” often mention that generative AI is simply an evolution of visual mediums.
+
+One of the biggest and most prominent arguments around AI generated content is what creativity should look like. Arguments that it is real “art” often mention that generative AI is simply an evolution of visual mediums:
+
+/blockquote(Craig Boehman)(American Photographer/Artist) … I love using AI to create art. It’s not only about convenience. For me, at the heart of it, it’s about expression and intention. These two traits, I believe, are essential to any definition of art. I’ll add that a sense of connection should then be experienced by the artist, because without that connection, then it isn’t “good” art for the artist to be creating, be it AI or otherwise. 
+
+Generally speaking, even if you are an AI-only “artist” you still do need to have some sort of core intention in your prompt. No matter how small, there is a morsel of human thought behind AI art — but the contrary highlights that the morsel manifests itself as something huskless:
+
+/blockquote(Jerry Saltz)(American Art Critic) There’s a difference between AI as a tool for human expression — which would make it part of a category that includes all kinds of tools, from cameras to Photoshop — and AI as the entity that is expressing itself. … But I don’t know if I can relate to that ghost in any way; I don’t know what its experiences are or if they even matter. Maybe its sensibilities are as rudimentary as those of a virus or a parasite.
+
+I’m inclined to agree with Saltz here; the convenience aspect of {AI “art”}{When a creative work entirely stems from an AI model with little to no other input. I use quotes around art for this mention as I don’t truly think it can be art on its own.} steps over the human element that often gives art its value. AI slop litters the internet with no true purpose other than [engagement bait and profits](https://www.theguardian.com/global/commentisfree/2025/jan/08/ai-generated-slop-slowly-killing-internet-nobody-trying-to-stop-it). The publication of AI “art” and the “I did this!” piece of it — is not filled with the pride or excitement that creating an art piece from scratch might come with.
+
+AI is also great at coding. It’s one of the top factors ranked on [LMArena](http://lmarena.ai) and drives new industry standards like Cursor and Windsurf. {Vibe coding}{The practice of coding a game, program, or website almost entirely via an AI tool} has become a term popular enough for [Wikipedia](https://en.wikipedia.org/wiki/Vibe_coding), with Google [adopting the idea and term](https://cloud.google.com/discover/what-is-vibe-coding) and [apps popping up](https://apps.apple.com/us/app/gizmo-make-gizmos/id6740640581) dedicated to *experimenting with vibes*.
+
+To many, [code is art:](https://daedtech.com/is-programming-art/) you’re bringing an idea to life through a medium that has many of the same human elements as art: trial and error, brainstorming and critiquing, and of course the satisfaction of showcasing work to the world. Therefore, is vibe coding a form of AI “art?” Is vibe coding [the same slop that plagues social media](https://www.theguardian.com/commentisfree/2025/apr/21/ai-slop-artificial-intelligence-social-media)?
+
+As someone who vibe coded their [whole portfolio](http://owenwhelan.com) (and the website you’re probably reading this on) I’d like to argue that vibe coding — while not quite *developing* — is an art in of itself; and it’s building a reputation distant from AI “art.”
+
+I’m not going to call myself a “developer” for vibe coding the same way I dismiss “artists” who solely use AI tools for creation. However, unlike prompting an AI to make art, much more goes into vibe coding a program.
+
+## Is Vibe Coding Effort?
+
+Once a human has an idea for a vibe code project, the road to making it function in the way you envision way more effort than in AI art. While the smallest scrap of an idea is needed for an AI art “piece”: 
+```prompt 
+Samurai cat, blue 
+``` 
+…the same amount of effort can’t quite land a vibe coded project:
+
+```prompt 
+My résumé as a website 
+``` 
+First of all, you need to *have* a résumé, but then what does that *look* like? Is a plain text HTML document really impressive to recruiters? What parts of your résumé should be left out? Do you have projects you want to highlight? You just can’t make it the full way without at least *trying* a bit more. 
+
+It also matters about industry: someone’s corporate business résumé looks way different than that of a graphic designer with a visual portfolio or a computer scientist projects section. People are different too: do you want your résumé to look like whatever the first prompt gave you? Does that *represent* you?
+
+Fine tuning (whether it’s manually editing the code or iterating on a prompt) isn’t an optional step when it comes to vibe coding. The first draft usually has a certain tinge of AI-ness and it *can* feel huskless. However, it’s with that iterative process (which I dare say takes *effort*) that makes it something worth taking a look at.
+
+When it comes to decorating and creating features, creating {pseudo-drafts}{My own idea — I use this term to refer to a representation of a website that might not actually function like one… think a sketch or Canva PDF.} goes a long way and, fortunately, requires the [human-in-the-loop](https://cloud.google.com/discover/human-in-the-loop) that AI ethicists like going for.
+
+## Is Vibe Coding Creative?
+
+Vibe coding isn’t creative when you plagiarize from it the same way someone could {“regularly” plagiarize}{Not an official term, but I’m referring to just straight up copy-pasting an AI generated output — like “write my essay.”} from ChatGPT. There is a large difference between:
+
+```prompt 
+make a tetris clone 
+``` 
+and 
+```prompt 
+Please see the attached PDF with an outline for a study application that combines the puzzle features from Tetris and target material. Make it an HTML document. Use CSS styling and please litter the code with calls to the console for debugging and amending your work. 
+```
+
+In a world of AI slop, it’s what distinct that stands out. Asking Google Gemini to make something that someone could make in 10 minutes using {Scratch}{Block coding program accessible to all ages. A very cool platform.} is not an expression of skill or creativity. It’s the time dumped into conceptualizing, reimagining, and refining an idea that makes it stand out. 
+
+Something as simple as color choice says something about you. Expert readers too can detect when something was written by AI or written by a person — so whether you just use AI for *code* or for actual content may speak to your work as well.
+
+## Is Vibe Coding Skilled?
+
+The easiest way to ask this question is to frame it from the perspective of *can you be bad at it?*
+
+In one way, no actually. You can literally just ask it to make something and you might get lucky. The model, in this case, is the real skilled one. The barrier to entry of making a first draft — whether it’s barebones or close to a final one — is a prompt away. 
+
+But returning to the creative argument: if it’s the first draft, *people can notice.* It takes some creative skill to come up with the idea for a vibe coded app that represents your values and does exactly what you need it to do. If we were able to download an image from your mind’s eye, maybe it wouldn’t be as skilled — but articulating that idea and then getting it to actually work is a process in itself.
+
+And what else do you need to get started? If you’re reprompting an AI to make small changes (i.e., modify a line of text) you’re going to end up wasting time and resources. Diving into the code to change up a few words or the color of something takes a bit of coding knowledge some might shy away from. 
+
+## What’s Next for Code?
+
+I think that the web is going to move in a very distinct direction: “classic” websites of text and buttons aren’t going to cut it in a couple years when anyone can vibe code an interactive game that takes you through their portfolio or a personalized assistant that walks you through their latest projects. Having a website — seeing how easy it is becoming to make one — might become the standard. The same might be able to be said for other forms of media, with [gaming giants](https://www.fortnite.com/news/this-will-be-a-day-long-remembered-speak-with-darth-vader-in-fortnite?lang=en-US) are already stepping into it and there’s no sign of anything stopping.
+
+Trying out AI tools for coding is free and you can find a sense of pride in making something. Developers and consumers of digital content in the AI modern era can look forward to a shift: whether it’s transformative or slop-esque is up to us.
+!@#$%^&*
+# Test Article Title
+## Test Article Subtitle
+by:
+ft:Test User 1, Test User 2
+tags:Education, News
+date:Jul-30-2025
+summary:This is a test summary for an article that shows off all the features of the custom markdown parser.
+
+This is the first paragraph of the test article. It can contain links like this one to [Google](https://google.com). It can also contain *italic text*.
+
+## This is an Inline Subtitle
+This paragraph comes after a subtitle. It also includes a {definition}{This is the explanation that shows up on hover.} which is a cool feature.
+
+[imglink=https://placehold.co/600x400/1a1a1a/e0ee0e0?text=Placeholder+Image]
+-c#This is a caption for the image above. It is small, gray, and centered.
+
+/blockquote(A. Person)(Thinker) This is a blockquote. It's formatted to stand out from the rest of the text.
+
+-#This is a small text block. It is gray but justified like a normal paragraph, used for asides or footnotes within the text body.
+
+Here is a code block:
+```javascript
+function helloWorld() {
+  console.log("Hello, World!");
+}
+```
+
+And that concludes the test article.
